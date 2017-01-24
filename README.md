@@ -12,3 +12,9 @@
 | GET    |/v1/person/{id}| get person by id |
 | GET    |/v1/persons    | get N persons with an offset|
 | PUT    |/v1/person     | add / update person|
+
+
+
+Rest Browser client
+
+https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en
