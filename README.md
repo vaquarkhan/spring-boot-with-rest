@@ -1,4 +1,4 @@
-# Spring boot example with REST and spring data JPA
+# Spring boot example with REST and spring data JPA ,H2 database with Swagger
 
 
 ### Endpoints
